@@ -1,6 +1,1 @@
-{
-  "rewrites": [
-    { "source": "/deco", "destination": "https://tailwindgc-deco.netlify.app/" },
-    { "source": "/deco/:path*", "destination": "https://tailwindgc-deco.netlify.app/:path*" }
-  ]
-}
+{}
